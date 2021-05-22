@@ -1,0 +1,6 @@
+swagger/test/SwaggerTestingApplication.java
+ swagger.test.SwaggerTestingApplication
+swagger/test/controller/PassPojo.java
+ swagger.test.controller.PassPojo
+swagger/test/controller/SwaggerTestController.java
+ swagger.test.controller.SwaggerTestController
