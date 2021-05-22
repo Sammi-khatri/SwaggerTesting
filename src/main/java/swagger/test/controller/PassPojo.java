@@ -1,6 +1,11 @@
 package swagger.test.controller;
 
+import io.swagger.annotations.ApiModel;
+import io.swagger.annotations.ApiModelProperty;
+
+@ApiModel(value = "Test Model")
 public class PassPojo {
+    @ApiModelProperty(value = "model name")
     private String name;
     private String id;
 
